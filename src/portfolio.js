@@ -1,6 +1,7 @@
+//'https://drive.google.com/file/d/16dfEJIYqhy_bkSkmsWvcKQ4CbSLdJXPL/view?usp=sharing',
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: '*',
+  homepage: 'https://usupal.vercel.app/',
   title: 'US.',
 }
 
@@ -11,7 +12,7 @@ const about = {
   description:
     'I am a driven and passionate software engineer with a focus on creating innovative and user-friendly applications. With a solid foundation in programming and a willingness to learn, I am excited to tackle any challenge and contribute to the tech industry.',
   resume:
-    'https://drive.google.com/file/d/16dfEJIYqhy_bkSkmsWvcKQ4CbSLdJXPL/view?usp=sharing',
+    'https://flowcv.com/resume/watu6ktoqg',
   social: {
     linkedin: 'https://www.linkedin.com/in/udyan-upal/',
     github: 'https://github.com/usupal',
