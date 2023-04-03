@@ -1,5 +1,7 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import RssFeedIcon from '@material-ui/icons/RssFeed';
+import TwitterIcon from '@material-ui/icons/Twitter';
 import React from 'react'
 import { about } from '../../portfolio'
 import './About.css'
@@ -46,6 +48,24 @@ const About = () => {
                 className='link link--icon'
               >
                 <LinkedInIcon />
+              </a>
+            )}
+            {social.medium && (
+              <a
+                href={social.medium}
+                aria-label='medium'
+                className='link link--icon'
+              >
+                <RssFeedIcon />
+              </a>
+            )}
+            {social.twitter && (
+              <a
+                href={social.twitter}
+                aria-label='twitter'
+                className='link link--icon'
+              >
+                <TwitterIcon />
               </a>
             )}
           </>

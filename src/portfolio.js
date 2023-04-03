@@ -15,6 +15,8 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/udyan-upal/',
     github: 'https://github.com/usupal',
+    medium: 'https://medium.com/@u.saha.upal',
+    twitter: 'https://twitter.com/udyan_upal'
   },
 }
 
