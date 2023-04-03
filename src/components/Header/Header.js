@@ -1,7 +1,7 @@
 import { header } from '../../portfolio'
 import Navbar from '../Navbar/Navbar'
 import './Header.css'
-
+import React from 'react'
 const Header = () => {
   const { homepage, title } = header
 

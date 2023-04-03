@@ -8,6 +8,7 @@ import Projects from './components/Projects/Projects'
 import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Skills from './components/Skills/Skills'
 import { ThemeContext } from './contexts/theme'
+import React from 'react'
 
 const App = () => {
   const [{ themeName }] = useContext(ThemeContext)
