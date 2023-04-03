@@ -10,7 +10,8 @@ const about = {
   role: 'Software Engineer',
   description:
     'I am a driven and passionate software engineer with a focus on creating innovative and user-friendly applications. With a solid foundation in programming and a willingness to learn, I am excited to tackle any challenge and contribute to the tech industry.',
-  resume: 'https://drive.google.com/file/d/16dfEJIYqhy_bkSkmsWvcKQ4CbSLdJXPL/view?usp=sharing',
+  resume:
+    'https://drive.google.com/file/d/16dfEJIYqhy_bkSkmsWvcKQ4CbSLdJXPL/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/udyan-upal/',
     github: 'https://github.com/usupal',
@@ -62,8 +63,7 @@ const projects = [
   },
   {
     name: 'Decentraland',
-    description:
-      'Web3 social media application ',
+    description: 'Web3 social media application ',
     stack: ['React', 'Javascript', 'Chakra-UI', 'GraphQL'],
     sourceCode: 'https://github.com/usUpal/d-social',
     livePreview: 'https://d-social.vercel.app/',
