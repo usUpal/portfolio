@@ -17,7 +17,7 @@ const about = {
     linkedin: 'https://www.linkedin.com/in/udyan-upal/',
     github: 'https://github.com/usupal',
     medium: 'https://medium.com/@u.saha.upal',
-    twitter: 'https://twitter.com/udyan_upal'
+    twitter: 'https://twitter.com/udyan_upal' 
   },
 }
 
@@ -93,6 +93,13 @@ const skills = [
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'udyan.upal@gmail.com',
+}
+const landing = {
+  // all the properties are optional - can be left empty or deleted
+  title: 'Hi, my name is',
+  name: 'Udyan Upal',
+  subtitle: "I'm the Unknown Developer.",
+  cta: 'Know more',
 }
 
 export { header, about, projects, skills, contact }
