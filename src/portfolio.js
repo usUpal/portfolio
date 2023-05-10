@@ -71,6 +71,13 @@ const projects = [
     sourceCode: 'https://github.com/usUpal/d-social',
     livePreview: 'https://d-social.vercel.app/',
   },
+  {
+    name: 'Bug Fixer',
+    description: "Bug Fixer is a ReactJS App with Tailwind CSS! This web application uses ReactJS, Tailwind CSS, and Axios to allow users to input code and issues and then find possible bugs using Open AI's API.",
+    stack: ['React', 'Javascript', 'axios', 'tailwindcss', 'openai'],
+    sourceCode: 'https://github.com/usUpal/bug-fixar',
+    livePreview: 'https://bug-fixar.vercel.app/',
+  },
 ]
 
 const skills = [
