@@ -57,14 +57,6 @@ const projects = [
     livePreview: 'https://www.jobify.live/landing',
   },
   {
-    name: 'Github Profilee',
-    description:
-      "Github-profilee is an application using ReactJS. The app allows users to search for Github profiles and displays relevant information, including the user's bio, repositories, and followers. This application utilizes the Github API to retrieve and display user data in a clean and intuitive UI.With this project, users can quickly and easily search for Github users and discover more about their contributions to the platform.",
-    stack: ['ReactJS', 'JavaScript', 'ContextAPI', 'oAuth'],
-    sourceCode: 'https://github.com/usUpal/github-profile',
-    livePreview: 'https://github-profileee.netlify.app/login',
-  },
-  {
     name: 'Decentraland',
     description: "Decentraland is a cutting-edge decentralized web3 social media application that aims to create a secure and censorship-resistant social network. Built using ReactJS and utilizing the Lens API, D-Social offers microblogging features that enable users to share content and interact with one another in a completely decentralized environment",
     stack: ['React', 'Javascript', 'Chakra-UI', 'GraphQL'],
