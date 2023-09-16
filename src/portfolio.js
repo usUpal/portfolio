@@ -78,6 +78,13 @@ const projects = [
     sourceCode: 'https://github.com/usUpal/bug-fixar',
     livePreview: 'https://bug-fixar.vercel.app/',
   },
+  {
+    name: 'Redux Shopping Cart',
+    description: "shopping cart application built using Redux, a popular state management library for JavaScript applications. The shopping cart allows users to browse a selection of products, add items to their cart, and manage the cart's contents seamlessly with firebase.",
+    stack: ['React', 'Javascript', 'firebase', 'materialui', 'Redux'],
+    sourceCode: 'https://github.com/usUpal/redux-cart',
+    livePreview: 'https://redux-cart-khaki.vercel.app',
+  },
 ]
 
 const skills = [
