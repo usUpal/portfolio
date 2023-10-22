@@ -4,10 +4,10 @@ import React from 'react'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='https://github.com/rajshekhar26/cleanfolio'
+      href='https://github.com/usupal'
       className='link footer__link'
     >
-      © @rajshekhar26
+      © usupal
     </a>
   </footer>
 )

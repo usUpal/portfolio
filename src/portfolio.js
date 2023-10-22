@@ -102,6 +102,11 @@ const skills = [
   'NodeJS',
   'ExpressJS',
   'Python3',
+  'django',
+  'MongoDB',
+  'SQL',
+  'GraphQL',
+  'FastAPI',
 ]
 
 const contact = {
